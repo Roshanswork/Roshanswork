@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Jambhulkar</h1>
-<h3 align="center">A passionate full stack web developer.</h3>
+<h3 align="center">A passionate front-end developer.</h3>
 <img src="https://www.clipartmax.com/png/middle/249-2494037_open-working-on-computer-animated-gif.png" alt="coding"/>
 - 🌱 I’m currently learning *React & MongoDB*
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about *Javascript,HTML & CSS.*
 
-- 📫 How to reach me *roshanyjambhulkar1204@gmail.com*
+- 📫 How to reach me *jambhulkar.roshan7@gmail.com*
 
 - ⚡ Fun fact *I think I am funny*
 
