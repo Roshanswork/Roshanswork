@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roshan Jambhulkar</h1>
 <h3 align="center">A passionate front-end developer.</h3>
+<h4 align="center">Front-end developer
+An energetic and clear-headed front-end developer with a specialization in the React and React Native. Curious to learn new things with a keen interest to work in a fast-paced company that can contribute to his personal growth.</h4>
 <img src="https://www.clipartmax.com/png/middle/249-2494037_open-working-on-computer-animated-gif.png" alt="coding"/>
-- 🌱 I’m currently learning *React & MongoDB*
+- 🌱 I’m currently working on *React & MongoDB*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Roshanswork](https://github.com/Roshanswork)
 
